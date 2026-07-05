@@ -1,0 +1,21 @@
+Student: Ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: Ali (ID: 12345) selected Class in Discrete Structure
+Student: Ali (ID: 12345) selected Assignments in Discrete Structure
+Student: Ali (ID: 12345) selected Assignments in Digital Logic Design
+Student: Ali (ID: 12345) selected Class in English
+Student: Ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: Ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: Ali (ID: 12345) selected Quiz in Object Oriented Programming
+Student: Ali (ID: 12345) selected Class in Ideology of Pakistan
+Student: Ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: Ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Quiz in Digital Logic Design
+Student: ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Quiz in Ideology of Pakistan
+Student: ali (ID: 12345) selected Assignments in Object Oriented Programming
+Student: ali (ID: 12345) selected Quiz in English
+Student: ali (ID: 12345) selected Class in Digital Logic Design
